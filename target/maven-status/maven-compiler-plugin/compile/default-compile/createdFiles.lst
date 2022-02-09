@@ -1,0 +1,4 @@
+com\mycompany\models\User.class
+com\mycompany\services\AccountService.class
+com\mycompany\servlets\LoginServlet.class
+com\mycompany\servlets\HomeServlet.class
